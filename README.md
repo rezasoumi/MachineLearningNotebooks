@@ -41,10 +41,10 @@ This repository contains the source codes and implementations of various machine
 - Description: Implementation of polynomial regression and spline models to capture non-linear relationships.
 - Source Code: [Beyond_Linearity](https://github.com/rezasoumi/MachineLearningNotebooks/blob/main/BeyondLinearity/ML_Beyond_Linearity.ipynb)
 
-### 8. SVM, PCS, K-Means & Neural Net
+### 8. SVM, PCA, K-Means & Neural Net
 
 - Description: Implementation of Support Vector Machine, Principal Component Analysis, K-Means clustering, and basic Neural Networks.
-- Source Code: [SVM_PCS_KMeans_NeuralNet](https://github.com/rezasoumi/MachineLearningNotebooks/blob/main/SVM%26PCA%26K-means%26neural_net/ML_A89_Faces.ipynb)
+- Source Code: [SVM_PCA_KMeans_NeuralNet](https://github.com/rezasoumi/MachineLearningNotebooks/blob/main/SVM%26PCA%26K-means%26neural_net/ML_A89_Faces.ipynb)
 
 ### 9. Semantic Analysis Project
 
